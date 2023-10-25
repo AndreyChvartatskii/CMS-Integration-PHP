@@ -1,0 +1,77 @@
+stdClass Object
+(
+    [name] => Загидуллина Анжела
+    [Phone] => +7 (929) 723-84-40
+    [Email] => migranova_ag@mail.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [sys] => yakassa
+            [systranid] => 2c768e71-000f-5000-9000-1239795fed15
+            [orderid] => 1500112363
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Nude Pink  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => FWJPEM5Bi6Ek31abfJwvu2
+                            [price] => 3500
+                            [sku] => BL19015
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Blush  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => Uhzq7jH8iLyzOWTKokro-2
+                            [price] => 3500
+                            [sku] => BL19023
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Berry  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0k7ehHCdiEGZCC4Zn0-c80
+                            [price] => 3500
+                            [sku] => BL19012
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => Raspberry  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 020D8bggjlzte65tbXLvy2
+                            [price] => 3500
+                            [sku] => BL00198
+                        )
+
+                )
+
+            [amount] => 14000
+            [subtotal] => 14000
+            [delivery] => СДЭК (пункт самовывоза)
+            [delivery_price] => 0
+            [delivery_fio] => Загидуллина Анжела Гамировна
+            [delivery_address] => RU: Point: ул. Чистопольская, 60 (На Чистопольской)421001, Казань
+            [delivery_comment] => 
+            [delivery_pickup_id] => KZN36
+            [delivery_zip] => 421001
+        )
+
+    [COOKIES] => _ga=GA1.2.1917581859.1692694350; _ga_HWZ3ELBWR0=GS1.2.1692694350.1.1.1692695217.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.634064703.1692694350; cart_half_com=1; tmr_detect=0%7C1692695076799; _ym_visorc=w; previousUrl=ru.icolorpmu.com%2F; _ga_WEE9J3J76X=GS1.1.1692694350.1.1.1692695074.0.0.0; _gcl_au=1.1.557140574.1692694349; tildasid=1692694349410.830936; tildauid=1692694349410.848839; tmr_lvid=6fc9aedeaca4aaaeb19ee275e325fc2c; tmr_lvidTS=1692443365738; TILDAUTM=utm_source%3Dyandex%7C%7C%7Cutm_medium%3Dcpc_yes%7C%7C%7Cutm_campaign%3Dru_yd_search_keywords_ru_generic%7C0000010601070000%7C11%3A%7Bcampaign_id%7D%7C%7C%7Cutm_content%3Dnon_non%7Cgbid%7C%7Bgbid%7D%7Cadid%7C%7Bad_id%7D%7Cphraseid%7C%7Bphrase_id%7D%7Cdevicetype%7C%7Bdevice_type%7D%7Cregionname%7C%7Bregion_name%7D%7Caud%7C%7Bretargeting_id%7D%7Ccoef%7C%7Bcoef_goal_context_id%7D%7Cpos%7C%7Bposition_type%7D_%7Bposition%7D%7Csrc%7C%7Bsource_type%7D_%7Bsource%7D%7C%7C%7Cutm_term%3D%7Bkeyword%7D%7C%7Bphrase_id%7D%7C%7C%7C; cart_full_com=1; _ym_d=1692694349; _ym_isad=2; _ym_uid=1692443380391316885
+    [formid] => form580314540
+    [formname] => Cart
+    [utm_source] => yandex
+    [utm_medium] => cpc_yes
+    [utm_campaign] => ru_yd_search_keywords_ru_generic|0000010601070000|11:{campaign_id}
+    [utm_content] => non_non|gbid|{gbid}|adid|{ad_id}|phraseid|{phrase_id}|devicetype|{device_type}|regionname|{region_name}|aud|{retargeting_id}|coef|{coef_goal_context_id}|pos|{position_type}_{position}|src|{source_type}_{source}
+    [utm_term] => {keyword}|{phrase_id}
+)

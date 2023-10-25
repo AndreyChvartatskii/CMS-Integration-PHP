@@ -1,0 +1,45 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Andrey Test
+    [surname] => Testik
+    [Phone] => +44 00-0999-08889
+    [Email] => sdfsf@sdf.ru
+    [Country] => United Kingdom
+    [TownCity] => sdf
+    [delivery-adress] => DDD
+    [zip-code] => DDD
+    [Shipping_and_Delivery] => Royal Mail express delivery 8,99 GBP = 8.99
+    [delivery_type_ms] => Royal Mail standard delivery 5,99 GBP=UK package delivery;Royal Mail express delivery 8,99 GBP=UK package delivery
+    [Checkbox] => yes
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1121206461
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Golden Blond  10 ml
+                            [quantity] => 1
+                            [amount] => 47
+                            [externalid] => 0f95Mm33jaQ7IVADijRuT1
+                            [price] => 47
+                            [sku] => BL19007
+                        )
+
+                )
+
+            [amount] => 55.99
+            [subtotal] => 47
+            [delivery] => Royal Mail express delivery 8,99 GBP
+            [delivery_price] => 8.99
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _gid=GA1.2.1833045875.1692003811; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692084271785.666823; _ym_isad=2; _ym_visorc=w; tildasid=1692361799920.107279; _gat_UA-83000624-1=1; _ga_WEE9J3J76X=GS1.1.1692361288.24.1.1692362441.0.0.0; _ga=GA1.2.791917157.1691753081; _gat=1; previousUrl=uk.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F551650462-u851645796471; _ga_HWZ3ELBWR0=GS1.2.1692361289.24.1.1692362468.0.0.0
+    [formid] => form581332280
+    [formname] => Cart
+)

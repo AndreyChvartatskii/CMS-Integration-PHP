@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Andrey Test
+    [surname] => Testik
+    [Phone] => +44 34-5343-45
+    [Email] => sdfsf@sdf.ru
+    [Country] => United Kingdom
+    [TownCity] => sdf
+    [delivery-adress] => ssss
+    [zip-code] => dddd
+    [Shipping_and_Delivery] => Royal Mail express delivery 8,99 GBP = 8.99
+    [delivery_type_ms] => Royal Mail standard delivery 5,99 GBP=UK package delivery;Royal Mail express delivery 8,99 GBP=UK package delivery
+    [Checkbox] => yes
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1448386079
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Golden Blond  10 ml
+                            [quantity] => 1
+                            [amount] => 47
+                            [externalid] => 0f95Mm33jaQ7IVADijRuT1
+                            [price] => 47
+                            [sku] => BL19007
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Terra Brown  10 ml
+                            [quantity] => 2
+                            [amount] => 94
+                            [externalid] => UeZTKzJ1gXe4yWVP3DRxq1
+                            [price] => 47
+                            [sku] => BL19004
+                        )
+
+                )
+
+            [amount] => 149.99
+            [subtotal] => 141
+            [delivery] => Royal Mail express delivery 8,99 GBP
+            [delivery_price] => 8.99
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692084271785.666823; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; _ym_visorc=w; tildasid=1693206407327.746220; cart_half_com=1; _ga_WEE9J3J76X=GS1.1.1693206393.18.1.1693206890.21.0.0; _ga=GA1.2.791917157.1691753081; previousUrl=uk.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F551650462-u680033401851; _gat_UA-83000624-1=1; _ga_HWZ3ELBWR0=GS1.2.1693206395.50.1.1693206913.0.0.0
+    [formid] => form581332280
+    [formname] => Cart
+)

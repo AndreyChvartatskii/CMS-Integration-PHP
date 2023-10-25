@@ -1,0 +1,45 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Eva Šindelářová
+    [Phone] => +420 (736) 777-550
+    [Email] => e.sindelarova1@gmail.com
+    [Country] => Czech Republic
+    [city] => Jesenice
+    [delivery-adress] => Ve dvoře 19
+    [zip-code] => 25242
+    [delivery] => Standart EU shipping – 14,5 €= 14,5
+    [Checkbox] => yes
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [sys] => stripe
+            [systranid] => ch_3NjgWLFciD5iace50srGTKyR
+            [orderid] => 1010979067
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Ideal Set For Lips
+                            [quantity] => 1
+                            [amount] => 75
+                            [externalid] => wp8WuKY6ivNrK1yn05lS70
+                            [price] => 75
+                            [sku] => LS6984EU
+                        )
+
+                )
+
+            [amount] => 89.5
+            [subtotal] => 75
+            [delivery] => Standart EU shipping – 14,5 €
+            [delivery_price] => 14.5
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => _gcl_au=1.1.270629171.1693133272; _ga=GA1.2.339996042.1693133272; _gid=GA1.2.1506824950.1693133272; _gat_UA-83000624-1=1; _gat=1; _ym_uid=1692771662985098420; _ym_d=1693133275; _ga_HWZ3ELBWR0=GS1.2.1693133275.1.1.1693133275.0.0.0; tildauid=1693133275124.209326; tildasid=1693133275124.191863; _ym_isad=2; _fbp=fb.1.1693133275269.612578278; _ym_visorc=w; previousUrl=cs.eu.icolorpmu.com%2F; _ga_WEE9J3J76X=GS1.1.1693133272.1.1.1693133286.46.0.0
+    [formid] => form574005476
+    [formname] => Cart
+)

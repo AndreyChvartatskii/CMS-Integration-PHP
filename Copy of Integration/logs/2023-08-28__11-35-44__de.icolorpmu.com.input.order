@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [Type_of_Order_2] => Products
+    [name] => Andrey Test
+    [surname] => Testik
+    [Phone] => +49 (933) 333-3333
+    [Email] => sdfsf@sdf.ru
+    [Land] => Germany
+    [city] => aaaa
+    [delivery-adress] => ssss
+    [zip-code] => dddd
+    [Lieferung] => EU-Versand 14,5 € = 14,5
+    [Checkbox] => yes
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [orderid] => 1413618797
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Dark Blond  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => ohllTpVmjneWAKdstxz020
+                            [price] => 55
+                            [sku] => BL19006EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Golden Blond  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => IqrBfomCi7JCwEQ0w0wo12
+                            [price] => 55
+                            [sku] => BL19007EU
+                        )
+
+                )
+
+            [amount] => 124.5
+            [subtotal] => 110
+            [delivery] => EU-Versand 14,5 €
+            [delivery_price] => 14.5
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692196041977.251926; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; cart_half_com=1; _ym_visorc=w; tildasid=1693211368626.598965; _ga=GA1.2.791917157.1691753081; _gat_UA-83000624-1=1; _ga_WEE9J3J76X=GS1.1.1693211313.19.1.1693211713.60.0.0; _gat=1; previousUrl=de.icolorpmu.com%2Fnewheader; _ga_HWZ3ELBWR0=GS1.2.1693211314.51.1.1693211742.0.0.0
+    [formid] => form580652835
+    [formname] => Cart
+)

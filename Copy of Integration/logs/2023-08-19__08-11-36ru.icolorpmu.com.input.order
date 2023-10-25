@@ -1,0 +1,41 @@
+stdClass Object
+(
+    [name] => Мартыщенко Анастасия Евгеньевна
+    [Phone] => +7 (908) 940-97-79
+    [Email] => nastin1988@mail.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [sys] => yakassa
+            [systranid] => 2c7262a7-000f-5000-9000-16d5822e20cb
+            [orderid] => 1095351585
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Iconic Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0JVeQf3vhhTWuq9h0ZHfg0
+                            [price] => 3500
+                            [sku] => BL00197
+                        )
+
+                )
+
+            [amount] => 3850
+            [subtotal] => 3500
+            [delivery] => Доставка курьером по России и странам ближнего зарубежья
+            [delivery_price] => 350
+            [delivery_fio] => Мартыщенко Анастасия Евгеньевна 
+            [delivery_address] => RU: 652700, Киселевск, Мира 20 кВ 2
+            [delivery_comment] => 
+            [delivery_zip] => 652700
+        )
+
+    [COOKIES] => _ga=GA1.2.566766066.1692418690; _ga_HWZ3ELBWR0=GS1.2.1692418690.1.1.1692421863.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.2015813586.1692418690; tildasid=1692418689622.719285; tmr_detect=0%7C1692418691720; _ym_d=1692418690; _ym_isad=2; _ym_uid=1692418690726842997; _ga_WEE9J3J76X=GS1.1.1692418689.1.0.1692418689.0.0.0; _gcl_au=1.1.76398001.1692418689; tmr_lvid=897a17d9cd3d00ff965680dfc7f716d7; tmr_lvidTS=1692418689258; tildauid=1692418689622.475363
+    [formid] => form580314540
+    [formname] => Cart
+)

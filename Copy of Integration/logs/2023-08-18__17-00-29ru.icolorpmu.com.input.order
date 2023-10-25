@@ -1,0 +1,49 @@
+stdClass Object
+(
+    [name] => Andrey Test
+    [Phone] => +7 (988) 978-78-70
+    [Email] => sdfsf@sdf.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1549258290
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Terra Brown  10 ml
+                            [quantity] => 2
+                            [amount] => 7000
+                            [externalid] => UeZTKzJ1gXe4yWVP3DRxq1
+                            [price] => 3500
+                            [sku] => BL19004
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Natural Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => vxccpCRcjhcw0ZvOUigt22
+                            [price] => 3500
+                            [sku] => BL19003
+                        )
+
+                )
+
+            [amount] => 10500
+            [subtotal] => 10500
+            [delivery] => Доставка курьером по России и странам ближнего зарубежья
+            [delivery_price] => 0
+            [delivery_fio] => kjklj
+            [delivery_address] => RU: 188832, Коробицыно, opipoipoop
+            [delivery_comment] => kljkljk
+            [delivery_zip] => 188832
+        )
+
+    [COOKIES] => tmr_lvid=def3188275db7f216e1314d17360d40f; tmr_lvidTS=1692367085847; _gcl_au=1.1.933390144.1692367086; _gid=GA1.2.1026140274.1692367086; _ym_uid=1692367086140763797; _ym_d=1692367086; _ym_visorc=w; _ym_isad=2; _fbp=fb.1.1692367088549.1947627612; tildauid=1692367089749.497301; tildasid=1692367089749.881808; _ga_WEE9J3J76X=GS1.1.1692367086.1.1.1692367154.0.0.0; _ga=GA1.2.1017156557.1692367086; tmr_detect=0%7C1692367160270; previousUrl=ru.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F613655820-u151302430162; _gat_UA-83000624-1=1; _ga_HWZ3ELBWR0=GS1.2.1692367086.1.1.1692367222.0.0.0
+    [formid] => form580314540
+    [formname] => Cart
+)

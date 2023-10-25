@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [Type_of_Order_2] => Products
+    [name] => Vedel
+    [surname] => Oxana
+    [Phone] => +49 (151) 222-24999
+    [Email] => oxanavedel85@gmail.com
+    [Land] => Germany
+    [city] => Herford
+    [delivery-adress] => Ortsieker Weg 65a
+    [zip-code] => 32049
+    [Lieferung] => Versand nur innerhalb Deutschlands 5,90 € = 5,90
+    [Checkbox] => yes
+    [paymentsystem] => paypal
+    [payment] => stdClass Object
+        (
+            [sys] => paypal
+            [systranid] => 0TK28646GX319500T
+            [orderid] => 1750033367
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Luxurious Brunette  10 ml
+                            [quantity] => 1
+                            [amount] => 72
+                            [externalid] => rKgswaMJhqh4ljyMlnCtz0
+                            [price] => 72
+                            [sku] => L6813
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Rosa Cr&eacute;me  10 ml
+                            [quantity] => 1
+                            [amount] => 72
+                            [externalid] => syHt7Hs4hhr0lttF8X9z23
+                            [price] => 72
+                            [sku] => L6810
+                        )
+
+                )
+
+            [amount] => 149.9
+            [subtotal] => 144
+            [delivery] => Versand nur innerhalb Deutschlands 5,90 €
+            [delivery_price] => 5.9
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => _fbp=fb.1.1692914064341.1370386026; _ga=GA1.2.705395339.1692914063; _ga_HWZ3ELBWR0=GS1.2.1692914063.1.1.1692914440.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.1454210170.1692914063; previousUrl=de.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F579701403-u277583304471; _ym_visorc=w; _ga_WEE9J3J76X=GS1.1.1692914063.1.0.1692914063.60.0.0; _ym_d=1692914064; _ym_isad=2; _ym_uid=169291406498676389; tildasid=1692914063613.181555; tildauid=1692914063613.335104; _gcl_au=1.1.1443795509.1692914063
+    [formid] => form580652835
+    [formname] => Cart
+)

@@ -1,0 +1,43 @@
+stdClass Object
+(
+    [name] => Тестов Тестерc
+    [phone] => +7 (910) 111-11-11
+    [Email] => info@alexfill.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [site] => ru
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1173000100
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => iColor Ash Blond Pencil
+                            [quantity] => 5
+                            [amount] => 30
+                            [externalid] => odjEIDbUjGxPdqHjjIqoc3
+                            [price] => 6
+                            [sku] => AB00281
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => iColor Hollywood Red Pencil
+                            [quantity] => 10
+                            [amount] => 60
+                            [externalid] => tht27GwkhQDFjWw3JoZwJ2
+                            [price] => 6
+                            [sku] => PH00282
+                        )
+
+                )
+
+            [amount] => 90
+        )
+
+    [COOKIES] => previousUrl=bg.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F612342998-u740420231321; tildasid=1692347511557.324355; tildauid=1692347511557.611153
+    [formid] => form614818286
+    [formname] => Cart
+)

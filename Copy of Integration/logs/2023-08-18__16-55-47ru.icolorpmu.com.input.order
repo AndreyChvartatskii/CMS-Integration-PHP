@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [name] => Andrey Test
+    [Phone] => +7 (345) 343-45-34
+    [Email] => sdfsf@sdf.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1019817492
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Mustard  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => qrrrq3lhhHuoDPIzvHBYU2
+                            [price] => 3500
+                            [sku] => BL19010
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Dark Blond  10 ml
+                            [quantity] => 3
+                            [amount] => 10500
+                            [externalid] => TSuVSMSsiR4gVJbZuQFH11
+                            [price] => 3500
+                            [sku] => BL19006
+                        )
+
+                )
+
+            [amount] => 14000
+            [subtotal] => 14000
+            [delivery] => Доставка курьером по России и странам ближнего зарубежья
+            [delivery_price] => 0
+            [delivery_fio] => klkkk
+            [delivery_address] => RU: 188832, Коробицыно, kkkk
+            [delivery_comment] => llll
+            [delivery_zip] => 188832
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; tildauid=1691753085805.531866; _gid=GA1.2.1833045875.1692003811; TILDAUTM=utm_source%3Dvkontakte%7C%7C%7Camp%3Butm_medium%3Dviral%7C%7C%7Camp%3Butm_campaign%3Dopisanie%7C%7C%7C; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; _ym_isad=2; _ym_visorc=w; cart_half_com=1; tildasid=1692365771673.779334; _gat_UA-83000624-1=1; _ga_WEE9J3J76X=GS1.1.1692361288.24.1.1692366910.0.0.0; _ga=GA1.2.791917157.1691753081; _gat=1; tmr_detect=0%7C1692366916861; previousUrl=ru.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F613655820-u352318992932; _ga_HWZ3ELBWR0=GS1.2.1692361289.24.1.1692366942.0.0.0
+    [formid] => form580314540
+    [formname] => Cart
+    [utm_source] => vkontakte
+)

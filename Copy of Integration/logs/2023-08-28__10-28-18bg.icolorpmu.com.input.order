@@ -1,0 +1,43 @@
+stdClass Object
+(
+    [name] => Andrey Test
+    [phone] => +7 (999) 887-66-57
+    [Email] => sdfsf@sdf.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [site] => ru
+    [paymentsystem] => tinkoff
+    [payment] => stdClass Object
+        (
+            [orderid] => 2116230328
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Black &amp; Brown  10 ml
+                            [quantity] => 2
+                            [amount] => 110
+                            [externalid] => 7cdBE7B5gQWKwhJgzNtH00
+                            [price] => 55
+                            [sku] => BL19001EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => iColor Ecru Pencil
+                            [quantity] => 2
+                            [amount] => 12
+                            [externalid] => nCXCXHyXgHJ2OWF1ufdmQ0
+                            [price] => 6
+                            [sku] => PE00280
+                        )
+
+                )
+
+            [amount] => 122
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692262542457.258472; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; _ym_visorc=w; tildasid=1693207337737.454568; _ga=GA1.2.791917157.1691753081; _ga_WEE9J3J76X=GS1.1.1693206393.18.1.1693207480.52.0.0; _ga_HWZ3ELBWR0=GS1.2.1693206395.50.1.1693207490.0.0.0; previousUrl=bg.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F612342998-u418682113181
+    [formid] => form614818286
+    [formname] => Cart
+)

@@ -1,0 +1,101 @@
+stdClass Object
+(
+    [name] => Виктория Санбогиевна Пак
+    [Phone] => +7 (914) 755-62-95
+    [Email] => pakusyawang@mail.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [sys] => yakassa
+            [systranid] => 2c7516d5-000f-5000-a000-11f86f52a7c4
+            [orderid] => 1383130425
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Bronza  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => gs12fjfDiU-2-gc82ShwI0
+                            [price] => 3500
+                            [sku] => BL19008
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Black &amp; Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => kZaVj6NnjA-2fH8h0EBkw0
+                            [price] => 3500
+                            [sku] => BL19001
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Black Velvet  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => yuu8vh23FxU0PDm6gI0L
+                            [price] => 3500
+                            [sku] => BL19025
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => Raspberry  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 020D8bggjlzte65tbXLvy2
+                            [price] => 3500
+                            [sku] => BL00198
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [name] => Iconic Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0JVeQf3vhhTWuq9h0ZHfg0
+                            [price] => 3500
+                            [sku] => BL00197
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [name] => Berry  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0k7ehHCdiEGZCC4Zn0-c80
+                            [price] => 3500
+                            [sku] => BL19012
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [name] => Lip Kiss  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => wtL5KhrMhAWos7ln66zMJ2
+                            [price] => 3500
+                            [sku] => BL19013
+                        )
+
+                )
+
+            [amount] => 25750
+            [subtotal] => 24500
+            [delivery] => Суперэкспресс доставка СДЭКом по России и странам ближнего зарубежья
+            [delivery_price] => 1250
+            [delivery_fio] => Пак Виктория Санбогиевна
+            [delivery_address] => RU: 693000, Южно-Сахалинск, ул. Комсомольская 271Ак1-41
+            [delivery_comment] => 
+            [delivery_zip] => 693000
+        )
+
+    [COOKIES] => _ga=GA1.2.612770131.1692598702; _ga_HWZ3ELBWR0=GS1.2.1692598703.1.1.1692599060.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.1792122795.1692598702; previousUrl=ru.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F577911371-u726048309410; _ga_WEE9J3J76X=GS1.1.1692598702.1.1.1692598764.0.0.0; _ym_visorc=w; tmr_detect=0%7C1692598704345; _ym_d=1692598703; _ym_isad=2; _ym_uid=1692598703360416333; _gcl_au=1.1.327713016.1692598702; tmr_lvid=bd7c9dcbe1d937b719ba5d28ac1ddee6; tmr_lvidTS=1692598701461; tildasid=1692598701844.779907; tildauid=1692598701844.569299
+    [formid] => form580314540
+    [formname] => Cart
+)

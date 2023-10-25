@@ -1,0 +1,43 @@
+stdClass Object
+(
+    [name] => Andrey Test
+    [phone] => +7 (981) 292-22-22
+    [Email] => sdfsf@sdf.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [site] => ru
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [orderid] => 1605443282
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => LkOt9H4hggy2WJprOyVAr0
+                            [price] => 55
+                            [sku] => BL19002EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Natural Brown  10 ml
+                            [quantity] => 2
+                            [amount] => 110
+                            [externalid] => 5PXLIHKGjFgRjn-6qoooP0
+                            [price] => 55
+                            [sku] => BL19003EU
+                        )
+
+                )
+
+            [amount] => 165
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692262542457.258472; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; _ym_visorc=w; _ga=GA1.2.791917157.1691753081; _ga_HWZ3ELBWR0=GS1.2.1693206395.50.1.1693206913.0.0.0; _ga_WEE9J3J76X=GS1.1.1693206393.18.1.1693207085.60.0.0; tildasid=1693207337737.454568; previousUrl=bg.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F565832945-u710884003661
+    [formid] => form614818286
+    [formname] => Cart
+)

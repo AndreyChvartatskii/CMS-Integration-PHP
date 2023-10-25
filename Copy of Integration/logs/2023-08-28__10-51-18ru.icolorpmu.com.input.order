@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [name] => Andrey Test
+    [Phone] => +7 (933) 333-33-33
+    [Email] => sdfsf@sdf.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [orderid] => 1182984131
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Stylish Nude  10 ml
+                            [quantity] => 2
+                            [amount] => 8000
+                            [externalid] => MXCDpucMgKxGsDRObpzjG1
+                            [price] => 4000
+                            [sku] => L6811
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Bellini  10 ml
+                            [quantity] => 3
+                            [amount] => 12000
+                            [externalid] => 3UOx8irCjzenlm1XMtsBK2
+                            [price] => 4000
+                            [sku] => L6809
+                        )
+
+                )
+
+            [amount] => 21250
+            [subtotal] => 20000
+            [delivery] => Суперэкспресс доставка СДЭКом по России и странам ближнего зарубежья
+            [delivery_price] => 1250
+            [delivery_fio] => Тестова
+            [delivery_address] => RU: 188832, Коробицыно, темт
+            [delivery_comment] => 
+            [delivery_zip] => 188832
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; tildauid=1691753085805.531866; TILDAUTM=utm_source%3Dvkontakte%7C%7C%7Camp%3Butm_medium%3Dviral%7C%7C%7Camp%3Butm_campaign%3Dopisanie%7C%7C%7C; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; _ym_visorc=w; tildasid=1692975060562.329601; cart_half_com=1; _ga_WEE9J3J76X=GS1.1.1693206393.18.1.1693209007.60.0.0; _ga=GA1.2.791917157.1691753081; previousUrl=ru.icolorpmu.com%2Fheader-17-10-2022; tmr_detect=0%7C1693209009885; _gat_UA-83000624-1=1; _ga_HWZ3ELBWR0=GS1.2.1693206395.50.1.1693209070.0.0.0
+    [formid] => form580314540
+    [formname] => Cart
+    [utm_source] => vkontakte
+)

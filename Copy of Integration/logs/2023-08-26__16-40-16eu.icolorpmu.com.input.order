@@ -1,0 +1,65 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Daria Radchenko
+    [Phone] => +420 (722) 928-999
+    [Email] => office.radchenko@gmail.com
+    [Country] => Czech Republic
+    [city] => Prague
+    [delivery-adress] => Za Karlinskym pristavem 699/14
+    [zip-code] => 18600
+    [delivery] => Standart EU shipping – 14,5 €= 14,5
+    [Checkbox] => yes
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [sys] => stripe
+            [systranid] => ch_3NjMgDFciD5iace50Q9eQqcR
+            [orderid] => 1785637750
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Natural Brown  10 ml
+                            [quantity] => 3
+                            [amount] => 165
+                            [externalid] => 5PXLIHKGjFgRjn-6qoooP0
+                            [price] => 55
+                            [sku] => BL19003EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Bronza  10 ml
+                            [quantity] => 2
+                            [amount] => 110
+                            [externalid] => 2vvibFn9gKth0HHiIrDGN2
+                            [price] => 55
+                            [sku] => BL19008EU
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Terra Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => LLuRNHMFhVXyMy-ZquRa-3
+                            [price] => 55
+                            [sku] => BL19004EU
+                        )
+
+                )
+
+            [amount] => 344.5
+            [subtotal] => 330
+            [delivery] => Standart EU shipping – 14,5 €
+            [delivery_price] => 14.5
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => _fbp=fb.1.1693054706817.239198331; _ga=GA1.2.1527397452.1693054706; _ga_HWZ3ELBWR0=GS1.2.1693056653.2.1.1693057048.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.339276395.1693054706; cart_half_com=1; previousUrl=ru.eu.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F576909175-u347726101981; cart_full_com=1; _ga_WEE9J3J76X=GS1.1.1693056648.2.1.1693056803.30.0.0; tildasid=1693056653051.325602; tildauid=1693056653051.494095; _ym_visorc=w; _gcl_au=1.1.447560150.1693054702; _ym_d=1693054706; _ym_isad=2; _ym_uid=1693054706930002305
+    [formid] => form574005476
+    [formname] => Cart
+)

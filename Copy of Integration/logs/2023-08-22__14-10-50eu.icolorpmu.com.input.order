@@ -1,0 +1,49 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => marta megli
+    [Phone] => +39 (349) 1450-904
+    [Email] => martamegli7@gmail.com
+    [Country] => Italy
+    [city] => FIRENZE
+    [delivery-adress] => VIA ERBOSA 20
+    [zip-code] => 50126
+    [delivery] => Standart EU shipping – 14,5 €= 14,5
+    [Checkbox] => yes
+    [paymentsystem] => paypal
+    [payment] => stdClass Object
+        (
+            [sys] => paypal
+            [systranid] => 02X59997286614255
+            [orderid] => 1577835508
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Trattamento di correzione del colore iColor Blur
+                            [quantity] => 1
+                            [amount] => 90
+                            [externalid] => ctPvhO66hobfbcdiQWW9k0
+                            [price] => 90
+                            [sku] => RE19000
+                        )
+
+                )
+
+            [amount] => 104.5
+            [subtotal] => 90
+            [delivery] => Standart EU shipping – 14,5 €
+            [delivery_price] => 14.5
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => TILDAUTM=utm_source%3Dgoogle%7C%7C%7Cutm_medium%3Dcpc_yes%7C%7C%7Cutm_campaign%3Dit_ga_search_keywords_it_generic%7C0701010611070000%7C%7C%7C%7Cutm_content%3Dnon_adaptive%7Ccid%7C19704212610%7Cgbid%7C149222827387%7Cadid%7C648727546057%7Cphraseid%7Ckwd-1254607144%7Cdevicetype%7Cc%7Csourcetype%7Cg%7Cmatchtype%7Cp%7Cregion%7C1008311%7C%7C%7Cutm_term%3Di%2520color%7Ckwd-1254607144%7C%7C%7C; _gcl_au=1.1.2115664004.1692702461; _gid=GA1.2.1671655248.1692702461; _ym_uid=169270246178405055; _ym_d=1692702461; _ym_visorc=w; _ym_isad=2; _fbp=fb.1.1692702461813.1608540390; tildauid=1692702462094.626906; tildasid=1692702462094.207565; _gcl_aw=GCL.1692702479.Cj0KCQjwuZGnBhD1ARIsACxbAVjKOSxH3GLIuISuDikTP31VNrYH-VxnAz_Jy_y5xoHeq6xdrSVvWnAaAvo8EALw_wcB; _gac_UA-83000624-1=1.1692702481.Cj0KCQjwuZGnBhD1ARIsACxbAVjKOSxH3GLIuISuDikTP31VNrYH-VxnAz_Jy_y5xoHeq6xdrSVvWnAaAvo8EALw_wcB; _gat_UA-83000624-1=1; _ga=GA1.2.267782274.1647878712; _gat=1; _ga_HWZ3ELBWR0=GS1.2.1692702460.1.1.1692702602.0.0.0; previousUrl=it.eu.icolorpmu.com%2F; _ga_WEE9J3J76X=GS1.1.1692702460.1.1.1692702614.0.0.0
+    [formid] => form574005476
+    [formname] => Cart
+    [utm_source] => google
+    [utm_medium] => cpc_yes
+    [utm_campaign] => it_ga_search_keywords_it_generic|0701010611070000
+    [utm_term] => i color|kwd-1254607144
+)

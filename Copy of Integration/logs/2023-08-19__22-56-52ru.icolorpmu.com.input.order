@@ -1,0 +1,62 @@
+stdClass Object
+(
+    [name] => Владимирова Евгения Николаевна
+    [Phone] => +7 (953) 240-48-08
+    [Email] => evgeniyaevgeniya1993av@mail.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [sys] => yakassa
+            [systranid] => 2c7331b6-000f-5000-a000-1f839747c339
+            [orderid] => 1333344538
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Iconic Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0JVeQf3vhhTWuq9h0ZHfg0
+                            [price] => 3500
+                            [sku] => BL00197
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Anestet Primary  30 ml
+                            [quantity] => 1
+                            [amount] => 860
+                            [externalid] => A3q7qevjikGQxvpdXYSmZ3
+                            [price] => 860
+                            [sku] => ANPR30
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Anestet Secondary  5 ml
+                            [quantity] => 1
+                            [amount] => 400
+                            [externalid] => WzHhdSbAgqYnoQ55yS74z1
+                            [price] => 400
+                            [sku] => ANSEC05
+                        )
+
+                )
+
+            [amount] => 5110
+            [subtotal] => 4760
+            [delivery] => СДЭК (пункт самовывоза)
+            [delivery_price] => 350
+            [delivery_fio] => Владимирова Евгения Николаевна 
+            [delivery_address] => RU: Point: ул. Красноармейская, 6 (На Красноармейской)180007, Псков
+            [delivery_comment] => 
+            [delivery_pickup_id] => PSK3
+            [delivery_zip] => 180007
+        )
+
+    [COOKIES] => _fbp=fb.1.1692444064376.646096561; _ga=GA1.2.62093783.1692444060; _ga_HWZ3ELBWR0=GS1.2.1692473980.3.1.1692474869.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.438878154.1692444061; tmr_detect=0%7C1692474744258; previousUrl=ru.icolorpmu.com%2F; _ym_visorc=w; tildasid=1692444062796.128146; tildauid=1692444062796.891295; _ga_WEE9J3J76X=GS1.1.1692473986.3.1.1692474739.0.0.0; _gcl_au=1.1.2137778838.1692444059; tmr_lvid=1e414c35d5adac2b497a074967c2f426; tmr_lvidTS=1692444058936; _ym_isad=2; _ym_d=1692444063; _ym_uid=1692444063161722986
+    [formid] => form580314540
+    [formname] => Cart
+)

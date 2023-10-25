@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [name] => Тестов Тестер Тестович
+    [phone] => +7 (910) 111-11-11
+    [Email] => info@alexfill.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [site] => ru
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1899667660
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Black &amp; Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => 7cdBE7B5gQWKwhJgzNtH00
+                            [price] => 55
+                            [sku] => BL19001EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => LkOt9H4hggy2WJprOyVAr0
+                            [price] => 55
+                            [sku] => BL19002EU
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Natural Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => 5PXLIHKGjFgRjn-6qoooP0
+                            [price] => 55
+                            [sku] => BL19003EU
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => iColor Ecru Pencil
+                            [quantity] => 1
+                            [amount] => 6
+                            [externalid] => nCXCXHyXgHJ2OWF1ufdmQ0
+                            [price] => 6
+                            [sku] => PE00280
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [name] => iColor Black and Brown Pencil
+                            [quantity] => 1
+                            [amount] => 6
+                            [externalid] => rpoKwkPGjMrzrft-Nmt7p1
+                            [price] => 6
+                            [sku] => PB00285
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [name] => Cosmetic sharpener
+                            [quantity] => 1
+                            [amount] => 4.5
+                            [externalid] => vMVj3rrOgIjKsS6Q66vCV0
+                            [price] => 4.5
+                            [sku] => PS00286
+                        )
+
+                )
+
+            [amount] => 181.5
+        )
+
+    [COOKIES] => previousUrl=bg.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F612342998-u618607689731; tildasid=1692347511557.324355; tildauid=1692347511557.611153
+    [formid] => form614818286
+    [formname] => Cart
+)

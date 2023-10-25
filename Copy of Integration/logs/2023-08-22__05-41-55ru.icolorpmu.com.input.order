@@ -1,0 +1,70 @@
+stdClass Object
+(
+    [name] => Зимбурская Яна Андреевна
+    [Phone] => +7 (902) 177-11-09
+    [Email] => zimbur-3@mail.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 2114392529
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Berry  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0k7ehHCdiEGZCC4Zn0-c80
+                            [price] => 3500
+                            [sku] => BL19012
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Lip Kiss  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => wtL5KhrMhAWos7ln66zMJ2
+                            [price] => 3500
+                            [sku] => BL19013
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Rose  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => Nk03En5Vi3F1tWcSnJ8b60
+                            [price] => 3500
+                            [sku] => BL19018
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => Nude Pink  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => FWJPEM5Bi6Ek31abfJwvu2
+                            [price] => 3500
+                            [sku] => BL19015
+                        )
+
+                )
+
+            [amount] => 14000
+            [subtotal] => 14000
+            [delivery] => СДЭК (постаматы, оплата картой)
+            [delivery_price] => 0
+            [delivery_fio] => Зимбурская Яна Андреевна
+            [delivery_address] => RU: Point: 4-й микрорайон, 12 (5916 Постамат Халва)666031, Шелехов
+            [delivery_comment] => 
+            [delivery_pickup_id] => SHEL3
+            [delivery_zip] => 666031
+        )
+
+    [COOKIES] => _fbp=fb.1.1692670510243.122402504; _ga=GA1.2.137498754.1692670505; _ga_HWZ3ELBWR0=GS1.2.1692670506.1.1.1692672105.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.1659657184.1692670505; _ga_WEE9J3J76X=GS1.1.1692670504.1.1.1692671971.0.0.0; _ym_visorc=w; _gcl_au=1.1.2101411639.1692670504; tmr_detect=0%7C1692671820844; previousUrl=ru.icolorpmu.com%2F; tildasid=1692670504682.612314; tildauid=1692670504682.868335; tmr_lvid=07b9952bddb01804e7a3df8837cc93ce; tmr_lvidTS=1692670500337; cart_full_com=1; _ym_isad=2; _ym_d=1692670506; _ym_uid=1692670506433746105
+    [formid] => form580314540
+    [formname] => Cart
+)

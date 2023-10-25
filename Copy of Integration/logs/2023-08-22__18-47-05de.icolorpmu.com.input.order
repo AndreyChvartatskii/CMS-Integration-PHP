@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [Type_of_Order_2] => Products
+    [name] => Kaul
+    [surname] => Anna
+    [Phone] => +49 (173) 241-3354
+    [Email] => anna.epifanov@yahoo.de
+    [Land] => Germany
+    [city] => Gifhorn
+    [delivery-adress] => Heinrich-Müller-Straße 40a
+    [zip-code] => 38518
+    [Lieferung] => Versand nur innerhalb Deutschlands 5,90 € = 5,90
+    [Checkbox] => yes
+    [paymentsystem] => paypal
+    [payment] => stdClass Object
+        (
+            [sys] => paypal
+            [systranid] => 86049432V4011592J
+            [orderid] => 1749980908
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Black &amp; Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => 7cdBE7B5gQWKwhJgzNtH00
+                            [price] => 55
+                            [sku] => BL19001EU
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Iconic Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => jjVbKNszik3hhKUE1ZwCU1
+                            [price] => 55
+                            [sku] => BL00197EU
+                        )
+
+                )
+
+            [amount] => 115.9
+            [subtotal] => 110
+            [delivery] => Versand nur innerhalb Deutschlands 5,90 €
+            [delivery_price] => 5.9
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => _gcl_au=1.1.2060130936.1692718942; _gid=GA1.2.90160675.1692718942; _ym_uid=1690186460237565706; _ym_d=1692718943; _ym_isad=2; _fbp=fb.1.1692718944030.306744245; tildauid=1692718944040.438415; tildasid=1692718944040.589682; _ym_visorc=w; _ga_WEE9J3J76X=GS1.1.1692718942.1.1.1692718963.0.0.0; _ga=GA1.2.1888951204.1692718942; previousUrl=de.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F579702460-u799105173841; _gat_UA-83000624-1=1; _ga_HWZ3ELBWR0=GS1.2.1692718942.1.1.1692719153.0.0.0
+    [formid] => form580652835
+    [formname] => Cart
+)

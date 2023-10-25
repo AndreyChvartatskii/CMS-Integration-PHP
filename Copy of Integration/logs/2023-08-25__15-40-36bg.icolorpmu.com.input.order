@@ -1,0 +1,33 @@
+stdClass Object
+(
+    [name] => Test
+    [phone] => +7 (910) 123-45-67
+    [Email] => art@alexfill.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [site] => ru
+    [paymentsystem] => cash
+    [payment] => stdClass Object
+        (
+            [orderid] => 1444900500
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => iColor Hollywood Red Pencil
+                            [quantity] => 1
+                            [amount] => 6
+                            [externalid] => tht27GwkhQDFjWw3JoZwJ2
+                            [price] => 6
+                            [sku] => PH00282
+                        )
+
+                )
+
+            [amount] => 6
+        )
+
+    [COOKIES] => previousUrl=bg.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F612342998-u740420231321; tildasid=1692967217328.833706; tildauid=1691987787833.627111; _ga_WEE9J3J76X=GS1.1.1692367894.14.1.1692368008.0.0.0; _ga=GA1.1.441321499.1691396693; _gcl_au=1.1.1813748911.1691396693; _ga_HWZ3ELBWR0=GS1.2.1692367993.14.1.1692368005.0.0.0; _fbp=fb.1.1691396694690.694060597; tmr_lvid=fd3c0d67e6d3fcb782dc94d28b5eb95d; tmr_lvidTS=1691396690939; _ym_d=1691396694; _ym_uid=1691396694242716852
+    [formid] => form612205434
+    [formname] => Cart
+)

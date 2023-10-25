@@ -1,0 +1,72 @@
+stdClass Object
+(
+    [name] => Гарипова Алия Айдаровна
+    [Phone] => +7 (962) 568-72-76
+    [Email] => iamaliiya2002@gmail.com
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => tinkoff
+    [payment] => stdClass Object
+        (
+            [sys] => tinkoff
+            [systranid] => 3167495665
+            [orderid] => 2079002394
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Nude Pink  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => FWJPEM5Bi6Ek31abfJwvu2
+                            [price] => 3500
+                            [sku] => BL19015
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Карандаш Concealer
+                            [quantity] => 1
+                            [amount] => 350
+                            [externalid] => O7S4Uv-RgnR80eMwfaTlm0
+                            [price] => 350
+                            [sku] => PC6835
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Карандаш Hollywood Red
+                            [quantity] => 3
+                            [amount] => 1050
+                            [externalid] => tht27GwkhQDFjWw3JoZwJ2
+                            [price] => 350
+                            [sku] => PH00282
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => Косметическая точилка
+                            [quantity] => 2
+                            [amount] => 800
+                            [externalid] => vMVj3rrOgIjKsS6Q66vCV0
+                            [price] => 400
+                            [sku] => PS00286
+                        )
+
+                )
+
+            [amount] => 6050
+            [subtotal] => 5700
+            [delivery] => СДЭК (пункт самовывоза)
+            [delivery_price] => 350
+            [delivery_fio] => Гарипова Алия Айдаровна
+            [delivery_address] => RU: Point: ул. Адоратского, 4 (На Адоратского)420133, Казань
+            [delivery_comment] => 
+            [delivery_pickup_id] => KZN7
+            [delivery_zip] => 420133
+        )
+
+    [COOKIES] => _fbp=fb.1.1693088640978.1206504654; _ga=GA1.2.1660413860.1693062105; _ga_HWZ3ELBWR0=GS1.2.1693118994.4.0.1693118994.0.0.0; _gat_UA-83000624-1=1; _gid=GA1.2.1487402188.1693062105; tildasid=1693093681999.376837; _ga_WEE9J3J76X=GS1.1.1693093682.3.1.1693095488.60.0.0; tmr_detect=0%7C1693095411249; tildauid=1693062104525.117016; _gcl_au=1.1.708840296.1693062104; tmr_lvid=b6dc826d08140ac7a0c8d51aec390e8e; tmr_lvidTS=1693062104053; _ym_d=1693062107; _ym_isad=2; _ym_uid=1693062107369476966
+    [formid] => form580314540
+    [formname] => Cart
+)

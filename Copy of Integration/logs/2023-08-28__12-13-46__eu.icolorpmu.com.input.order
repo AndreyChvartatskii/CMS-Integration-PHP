@@ -1,0 +1,47 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Andrey Test
+    [Phone] => +7 (933) 333-33-33
+    [Email] => sdfsf@sdf.ru
+    [Country] => Lithuania
+    [city] => aaaa
+    [delivery-adress] => ssss
+    [zip-code] => dddd
+    [delivery] => Omniva Baltics – 6.99 € = 6.99
+    [Checkbox] => yes
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [orderid] => 2127063622
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Bronza  10 ml
+                            [quantity] => 3
+                            [amount] => 165
+                            [externalid] => 2vvibFn9gKth0HHiIrDGN2
+                            [price] => 55
+                            [sku] => BL19008EU
+                        )
+
+                )
+
+            [amount] => 171.99
+            [subtotal] => 165
+            [delivery] => Omniva Baltics – 6.99 €
+            [delivery_price] => 6.99
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; tildauid=1691753139889.445486; TILDAUTM=utm_source%3Dfacebook%7C%7C%7Cutm_medium%3Dcpm_yes%7C%7C%7Cutm_campaign%3Deu_fb_stories_interests_eu%7C0402040207000000%7C%7C%7C%7Cutm_content%3Dimg11_non%7Cadid%7C23857650878980501%7C%7C%7Cutm_term%3D%7Bkeyword%7D%7C%7C%7C; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; cart_half_com=1; _ym_visorc=w; tildasid=1693212585204.103504; _ga=GA1.2.791917157.1691753081; _ga_WEE9J3J76X=GS1.1.1693211313.19.1.1693213985.24.0.0; previousUrl=eu.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F539216779-u555096578511; _gat_UA-83000624-1=1; _ga_HWZ3ELBWR0=GS1.2.1693211314.51.1.1693214022.0.0.0
+    [formid] => form574005476
+    [formname] => Cart
+    [utm_source] => facebook
+    [utm_medium] => cpm_yes
+    [utm_campaign] => eu_fb_stories_interests_eu|0402040207000000
+    [utm_term] => {keyword}
+)

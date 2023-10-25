@@ -1,0 +1,47 @@
+stdClass Object
+(
+    [name] => Дроздова Мария Геннадьевна
+    [Phone] => +7 (910) 347-49-83
+    [Email] => drozdmasha96@yandex.ru
+    [Type_of_Order] => Products
+    [Checkbox] => yes
+    [paymentsystem] => yakassa
+    [payment] => stdClass Object
+        (
+            [sys] => yakassa
+            [systranid] => 2c791b78-000f-5000-8000-11c37b0a4621
+            [orderid] => 2003541389
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Iconic Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 3500
+                            [externalid] => 0JVeQf3vhhTWuq9h0ZHfg0
+                            [price] => 3500
+                            [sku] => BL00197
+                        )
+
+                )
+
+            [amount] => 3850
+            [subtotal] => 3500
+            [delivery] => СДЭК (пункт самовывоза)
+            [delivery_price] => 350
+            [delivery_fio] => Дроздова Мария Геннадьевна
+            [delivery_address] => RU: Point: ул. Владимира Невского, 31Б (Храм на Владимира Невского)394005, Воронеж
+            [delivery_comment] => 
+            [delivery_pickup_id] => VRN18
+            [delivery_zip] => 394005
+        )
+
+    [COOKIES] => tmr_lvid=c0e2a9e2930720e1cfb2dbf39783d443; tmr_lvidTS=1692790554864; _gcl_au=1.1.488781908.1692790555; _gid=GA1.2.1888748108.1692790557; _ym_uid=1692790557826328270; _ym_d=1692790557; _ym_isad=1; tildauid=1692790561217.696755; _ym_visorc=w; tildasid=1692862089528.669257; TILDAUTM=utm_source%3Dyandex%7C%7C%7Cutm_medium%3Dcpc_yes%7C%7C%7Cutm_campaign%3Dru_yd_search_keywords_ru_generic%257c0000010601070000%257c11%3A%257bcampaign_id%257d%7C%7C%7Cutm_content%3Dnon_non%257cgbid%257c%257bgbid%257d%257cadid%257c%257bad_id%257d%257cphraseid%257c%257bphrase_id%257d%257cdevicetype%257c%257bdevice_type%257d%257cregionname%257c%257bregion_name%257d%257caud%257c%257bretargeting_id%257d%257ccoef%257c%257bcoef_goal_context_id%257d%257cpos%257c%257bposition_type%257d_%257bposition%257d%257csrc%257c%257bsource_type%257d_%257bsource%257d%7C%7C%7Cutm_term%3D%257bkeyword%257d%257c%257bphrase_id%257d%7C%7C%7C; previousUrl=ru.icolorpmu.com%2F; _ga=GA1.2.1657214534.1692790556; tmr_detect=0%7C1692862335270; cart_full_com=1; _gat_UA-83000624-1=1; _ga_WEE9J3J76X=GS1.1.1692862089.3.1.1692862382.0.0.0; _ga_HWZ3ELBWR0=GS1.2.1692862089.2.1.1692862389.0.0.0
+    [formid] => form580314540
+    [formname] => Cart
+    [utm_source] => yandex
+    [utm_medium] => cpc_yes
+    [utm_campaign] => ru_yd_search_keywords_ru_generic|0000010601070000|11:{campaign_id}
+    [utm_content] => non_non|gbid|{gbid}|adid|{ad_id}|phraseid|{phrase_id}|devicetype|{device_type}|regionname|{region_name}|aud|{retargeting_id}|coef|{coef_goal_context_id}|pos|{position_type}_{position}|src|{source_type}_{source}
+    [utm_term] => {keyword}|{phrase_id}
+)

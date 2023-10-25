@@ -1,0 +1,44 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Andrey Test
+    [surname] => Testik
+    [Phone] => +7 (933) 333-33-33
+    [Email] => sdfsf@sdf.ru
+    [Country] => United States
+    [city] => aaaa
+    [delivery-adress] => ssss
+    [zip-code] => dddd
+    [Delivery] => Worldwide UPS 40$ = 40
+    [Checkbox] => yes
+    [paymentsystem] => stripe
+    [payment] => stdClass Object
+        (
+            [orderid] => 1172253508
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Ecru Pencil
+                            [quantity] => 2
+                            [amount] => 14
+                            [externalid] => nCXCXHyXgHJ2OWF1ufdmQ0
+                            [price] => 7
+                            [sku] => PE00280
+                        )
+
+                )
+
+            [amount] => 54
+            [subtotal] => 14
+            [delivery] => Worldwide UPS 40$
+            [delivery_price] => 40
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => tmr_lvid=3e7478a721d649e6b6edd12d481a9a1b; tmr_lvidTS=1691753080812; _gcl_au=1.1.2093456930.1691753081; _ym_uid=1691753083910741901; _ym_d=1691753083; _fbp=fb.1.1691753083366.1350290881; _fbc=fb.1.1692022476476.PAAaZaMuFWH7xA9re8RZyrjPPv_4eCuzodHFrCSB0qE0WGlxTCAP_kf5ez6I0; tildauid=1692196318954.287539; _gid=GA1.2.1238750083.1693206394; _ym_isad=2; cart_half_com=1; _ym_visorc=w; tildasid=1693214418533.343453; previousUrl=int.icolorpmu.com%2Fconcealer_pencil; _gat_UA-83000624-1=1; _ga_WEE9J3J76X=GS1.1.1693211313.19.1.1693214752.58.0.0; _ga=GA1.2.791917157.1691753081; _gat=1; _ga_HWZ3ELBWR0=GS1.2.1693211314.51.1.1693214770.0.0.0
+    [formid] => form581267080
+    [formname] => Cart
+)

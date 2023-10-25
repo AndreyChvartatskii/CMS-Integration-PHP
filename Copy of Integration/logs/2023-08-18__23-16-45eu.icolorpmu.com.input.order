@@ -1,0 +1,65 @@
+stdClass Object
+(
+    [Type_of_Order] => Products
+    [name] => Anna Dambrosio
+    [Phone] => +39 (333) 3471-073
+    [Email] => Aac16-sa@outlook.it
+    [Country] => Italy
+    [city] => Campagna
+    [delivery-adress] => Via Castrullo 208
+    [zip-code] => 84022
+    [delivery] => Standart EU shipping – 14,5 €= 14,5
+    [Checkbox] => yes
+    [paymentsystem] => paypal
+    [payment] => stdClass Object
+        (
+            [sys] => paypal
+            [systranid] => 77J23266AD582333W
+            [orderid] => 1354518025
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Elegante Nude  10 ml
+                            [quantity] => 1
+                            [amount] => 72
+                            [externalid] => MXCDpucMgKxGsDRObpzjG1
+                            [price] => 72
+                            [sku] => L6811
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => Rosa Creme  10 ml
+                            [quantity] => 1
+                            [amount] => 72
+                            [externalid] => syHt7Hs4hhr0lttF8X9z23
+                            [price] => 72
+                            [sku] => L6810
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Terra Brown  10 ml
+                            [quantity] => 1
+                            [amount] => 55
+                            [externalid] => LLuRNHMFhVXyMy-ZquRa-3
+                            [price] => 55
+                            [sku] => BL19004EU
+                        )
+
+                )
+
+            [amount] => 213.5
+            [subtotal] => 199
+            [delivery] => Standart EU shipping – 14,5 €
+            [delivery_price] => 14.5
+            [delivery_fio] => 
+            [delivery_address] => 
+            [delivery_comment] => 
+        )
+
+    [COOKIES] => _fbp=fb.1.1692389494846.310588998; _ga_HWZ3ELBWR0=GS1.2.1692389494.1.1.1692389631.0.0.0; cart_half_com=1; previousUrl=it.eu.icolorpmu.com%2Ftilda%2Fcart%2Fadd%2F613699054-u347726101981; _ga_WEE9J3J76X=GS1.1.1692389493.1.1.1692389615.0.0.0; cart_full_com=1; _ym_visorc=w; _ga=GA1.1.968742635.1692389494; _gid=GA1.2.1145999371.1692389494; tildasid=1692389493606.900871; tildauid=1692389493606.200619; _gcl_au=1.1.1969418393.1692389493; _ym_d=1692389494; _ym_isad=2; _ym_uid=1692389494393569879
+    [formid] => form574005476
+    [formname] => Cart
+)
